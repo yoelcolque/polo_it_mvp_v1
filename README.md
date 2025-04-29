@@ -22,6 +22,8 @@ git clone https://github.com/yoelcolque/polo_it_mvp_v1.git
 
 ## BACKEND
 
+### 0. Primero ingresar a la carpeta backend
+
 ### 1. Instalar dependencias
 
 ```bash
@@ -93,6 +95,8 @@ http://localhost:3001
 
 ---------------------------------------------------------------
 ## FRONTEND
+
+### 0. Primero ingresar a la carpeta frontend
 
 ### 1. Instalar dependencias
 
